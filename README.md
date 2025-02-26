@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @29dana29
-- 👀 I’m interested in Discord.py
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in C++, SFML, C, Python, Java and Physics simulations
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me 29DANA29#4846 on discord (;
+- 📫 How to reach me
 
 <!---
 29dana29/29dana29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
