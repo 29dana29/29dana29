@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @29dana29
-- 👀 I’m interested in C++, SFML, C, Python, Java and Physics simulations
+- 👀 I’m interested in C++, SFML, C, Python and Physics simulations
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me
